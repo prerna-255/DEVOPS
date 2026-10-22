@@ -275,7 +275,3 @@ This assignment provided practical experience with Infrastructure as Code using 
 4. AWS IAM Documentation — https://docs.aws.amazon.com/iam/
 5. AWS Security Groups Documentation — https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html
 
-## 16. Submission Links
-**GitHub Repository Link:** `https://github.com/SwayamMandhani06/DevOps/tree/main/Assignment-3`
-
-**Hosted / Output Link:** `N/A — AWS Console based practical`
