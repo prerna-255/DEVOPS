@@ -65,8 +65,6 @@ Assignment-3/
 │   ├── outputs.tf
 │   ├── .gitignore
 │   └── terraform.tfvars
-├── Report/
-│   └── 123B1B184_Assignment_3_DevOps.pdf
 ├── Screenshots/
 │   ├── 1-terraform-version.png
 │   ├── 2-terraform-files.png
