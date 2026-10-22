@@ -58,7 +58,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 git branch: 'main',
-                    url: 'https://github.com/SwayamMandhani06/DevOps.git'
+                    url: 'https://github.com/prerna-255/DEVOPS.git'
             }
         }
 
@@ -81,7 +81,7 @@ pipeline {
 ## Continuous Integration Implementation
 
 ### 1. Jenkins Freestyle Project (`GitHub-Jenkins-Demo`)
-- **Source Code Management:** Git (`https://github.com/SwayamMandhani06/DevOps.git`), branch `*/main`.
+- **Source Code Management:** Git (`https://github.com/SwayamMandhani06/DevOps.git](https://github.com/prerna-255/DEVOPS.git`), branch `*/main`.
 - **Build Trigger:** Poll SCM with schedule `H/5 * * * *` (polls remote GitHub repository every 5 minutes).
 - **Build Step:** Execute Windows batch command:
   ```bat
@@ -92,7 +92,7 @@ pipeline {
 
 ### 2. Jenkins Declarative Pipeline (`GitHub-Jenkins-Pipeline`)
 - **Definition:** Pipeline script from SCM.
-- **SCM:** Git (`https://github.com/SwayamMandhani06/DevOps.git`), branch `*/main`.
+- **SCM:** Git (`https://github.com/prerna-255/DEVOPS.git`), branch `*/main`.
 - **Script Path:** `Assignment-6/Jenkinsfile`.
 - **Execution Stages:**
   1. **Checkout:** Clones remote repository and checks out commit from `main`.
