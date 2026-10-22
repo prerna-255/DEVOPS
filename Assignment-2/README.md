@@ -438,4 +438,12 @@ The practical reinforced foundational DevOps and cloud engineering skills, parti
 
 ---
 
+## 📌 Submission Information
 
+- **Student Name**: Swayam Mandhani
+- **PRN / Roll No**: 123B1B184
+- **Class / Division**: B.Tech Computer Engineering, Division C, Batch C2
+- **Course**: DevOps (BCE27PE01)
+- **Institution**: Pimpri Chinchwad College of Engineering (PCCOE)
+- **Assignment**: DevOps Assignment 02 — AWS Cloud Computing Services
+- **GitHub Repository**: [https://github.com/prerna-255/DEVOPS/tree/main/Assignment-2](https://github.com/prerna-255/DEVOPS/tree/main/Assignment-2)

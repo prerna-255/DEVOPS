@@ -83,7 +83,7 @@ To study major Amazon Web Services (AWS) cloud computing solutions—including c
 
 ### Documentation
 - Folder: [Assignment-2/](./Assignment-2/)
-- GitHub Direct Link: [https://github.com/SwayamMandhani06/DevOps/tree/main/Assignment-2](https://github.com/SwayamMandhani06/DevOps/tree/main/Assignment-2)
+- GitHub Direct Link: [https://github.com/prerna-255/DEVOPS/tree/main/Assignment-2](https://github.com/prerna-255/DEVOPS/tree/main/Assignment-2)
 
 ---
 
@@ -179,7 +179,7 @@ The complete end-to-end workflow executed during the practical:
 
 ### Documentation
 - Folder: [Assignment-3/](./Assignment-3/)
-- GitHub Direct Link: [https://github.com/SwayamMandhani06/DevOps/tree/main/Assignment-3](https://github.com/SwayamMandhani06/DevOps/tree/main/Assignment-3)
+- GitHub Direct Link: [https://github.com/prerna-255/DEVOPS/tree/main/Assignment-3](https://github.com/prerna-255/DEVOPS/tree/main/Assignment-3)
 
 ---
 
@@ -311,7 +311,7 @@ The complete end-to-end containerization workflow executed during the practical:
 
 ### Documentation
 - Folder: [Assignment-4/](./Assignment-4/)
-- GitHub Direct Link: [https://github.com/SwayamMandhani06/DevOps/tree/main/Assignment-4](https://github.com/SwayamMandhani06/DevOps/tree/main/Assignment-4)
+- GitHub Direct Link: [https://github.com/prerna-255/DEVOPS/tree/main/Assignment-4](https://github.com/prerna-255/DEVOPS/tree/main/Assignment-4)
 
 ---
 
@@ -448,7 +448,7 @@ The multi-container application is organized under [`Assignment-5/`](./Assignmen
 
 ### Documentation
 - Folder: [Assignment-5/](./Assignment-5/)
-- GitHub Direct Link: [https://github.com/SwayamMandhani06/DevOps/tree/main/Assignment-5](https://github.com/SwayamMandhani06/DevOps/tree/main/Assignment-5)
+- GitHub Direct Link: [https://github.com/prerna-255/DEVOPS/tree/main/Assignment-5](https://github.com/prerna-255/DEVOPS/tree/main/Assignment-5)
 
 
 ---
@@ -461,7 +461,7 @@ To implement Continuous Integration (CI) by integrating Jenkins automation serve
 ### Key Concepts / Technologies
 - **Continuous Integration (CI)**: Automated code retrieval, build execution, and validation upon repository updates to identify integration issues early.
 - **Jenkins Automation Server**: Standalone automation engine (v2.568.3) running locally on `http://localhost:8080`, managed via OpenJDK 21 LTS runtime.
-- **GitHub SCM Integration**: Remote Git repository integration (`https://github.com/SwayamMandhani06/DevOps.git`) with automatic branch tracking for the `main` branch.
+- **GitHub SCM Integration**: Remote Git repository integration (`https://github.com/prerna-255/DEVOPS.git`) with automatic branch tracking for the `main` branch.
 - **Freestyle Project Implementation (`GitHub-Jenkins-Demo`)**:
   - Direct SCM integration binding to the Git repository.
   - SCM Polling schedule (`H/5 * * * *`) configuring Jenkins to poll GitHub every 5 minutes for new commits.
@@ -540,7 +540,7 @@ The Continuous Integration setup is organized under [`Assignment-6/`](./Assignme
    - Accessed and configured Jenkins dashboard at `http://localhost:8080`.
    - Verified installed plugins including `Pipeline`, `Pipeline Graph View`, and `Pipeline: Declarative`.
 2. **Freestyle Project Setup (`GitHub-Jenkins-Demo`)**:
-   - Configured Git Source Code Management with repository URL `https://github.com/SwayamMandhani06/DevOps.git`.
+   - Configured Git Source Code Management with repository URL `https://github.com/prerna-255/DEVOPS.git`.
    - Set branch specifier to `*/main`.
    - Configured Build Trigger: **Poll SCM** with schedule `H/5 * * * *` (polling every 5 minutes).
    - Added build step **Execute Windows batch command**:
@@ -565,7 +565,7 @@ The Continuous Integration setup is organized under [`Assignment-6/`](./Assignme
      ```
 4. **Declarative Pipeline Implementation (`GitHub-Jenkins-Pipeline`)**:
    - Created a new Pipeline item configured with **Pipeline script from SCM**.
-   - Selected SCM as **Git**, configured repository URL `https://github.com/SwayamMandhani06/DevOps.git`, and branch `*/main`.
+   - Selected SCM as **Git**, configured repository URL `https://github.com/prerna-255/DEVOPS.git`, and branch `*/main`.
    - Configured Script Path to [`Assignment-6/Jenkinsfile`](./Assignment-6/Jenkinsfile) with lightweight checkout.
 5. **Pipeline Multi-Stage Execution & Verification**:
    - Executed Pipeline Build #1, obtaining the version-controlled `Jenkinsfile` directly from GitHub.
@@ -598,7 +598,7 @@ The Continuous Integration setup is organized under [`Assignment-6/`](./Assignme
 
 ### Documentation
 - Folder: [Assignment-6/](./Assignment-6/)
-- GitHub Direct Link: [https://github.com/SwayamMandhani06/DevOps/tree/main/Assignment-6](https://github.com/SwayamMandhani06/DevOps/tree/main/Assignment-6)
+- GitHub Direct Link: [https://github.com/prerna-255/DEVOPS/tree/main/Assignment-6](https://github.com/prerna-255/DEVOPS/tree/main/Assignment-6)
 
 
 ---
@@ -770,7 +770,7 @@ The Kubernetes and Helm implementation is organized under [`Assignment-7/`](./As
 
 ### Documentation
 - Folder: [Assignment-7/](./Assignment-7/)
-- GitHub Direct Link: [https://github.com/SwayamMandhani06/DevOps/tree/main/Assignment-7](https://github.com/SwayamMandhani06/DevOps/tree/main/Assignment-7)
+- GitHub Direct Link: [https://github.com/prerna-255/DEVOPS/tree/main/Assignment-7](https://github.com/prerna-255/DEVOPS/tree/main/Assignment-7)
 
 
 ---
@@ -903,7 +903,7 @@ Successfully orchestrated containerized workloads with declarative Pod and Deplo
 
 ### Documentation
 - Folder: [Assignment-8/](./Assignment-8/)
-- GitHub Direct Link: [https://github.com/SwayamMandhani06/DevOps/tree/main/Assignment-8](https://github.com/SwayamMandhani06/DevOps/tree/main/Assignment-8)
+- GitHub Direct Link: [https://github.com/prerna-255/DEVOPS/tree/main/Assignment-8](https://github.com/prerna-255/DEVOPS/tree/main/Assignment-8)
 
 ---
 

@@ -210,4 +210,8 @@ The Flask and MongoDB services were successfully orchestrated using Docker Compo
 | 11 | [`11-volume-persistence-verification.png`](Screenshots/11-volume-persistence-verification.png) | Volume persistence verification across MongoDB container restart |
 | 12 | [`12-docker-shutdown.png`](Screenshots/12-docker-shutdown.png) | Graceful application shutdown via `docker compose down` |
 
+## Submission
 
+**GitHub:** https://github.com/prerna-255/DEVOPS/tree/main/Assignment-5
+
+**Hosted / Output:** N/A — Multi-container application executed locally.

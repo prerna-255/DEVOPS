@@ -124,3 +124,8 @@ The Flask application was successfully migrated to Docker. The image `flask-dock
 | 11 | [`11-restart-docker-container.png`](Screenshots/11-restart-docker-container.png) | Container restart verification via `docker start` |
 | 12 | [`12-container-removed.png`](Screenshots/12-container-removed.png) | Container removal via `docker rm` |
 | 13 | [`13-docker-image-cleanup.png`](Screenshots/13-docker-image-cleanup.png) | Docker image cleanup via `docker rmi` |
+
+## Submission
+**GitHub:** https://github.com/prerna-255/DEVOPS/tree/main/Assignment-4
+
+**Hosted / Output:** N/A — Docker application executed locally.
