@@ -1,5 +1,3 @@
-# DevOps Assignment 7 — Kubernetes Application Deployment using Helm
-
 
 ---
 
