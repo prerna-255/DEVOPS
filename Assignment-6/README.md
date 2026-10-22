@@ -81,7 +81,7 @@ pipeline {
 ## Continuous Integration Implementation
 
 ### 1. Jenkins Freestyle Project (`GitHub-Jenkins-Demo`)
-- **Source Code Management:** Git (`https://github.com/prerna-255/DEVOPS.git](https://github.com/prerna-255/DEVOPS.git`), branch `*/main`.
+- **Source Code Management:** Git ([Prerana's DEVOPS repository](https://github.com/prerna-255/DEVOPS)), branch `*/main`.
 - **Build Trigger:** Poll SCM with schedule `H/5 * * * *` (polls remote GitHub repository every 5 minutes).
 - **Build Step:** Execute Windows batch command:
   ```bat
