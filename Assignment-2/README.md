@@ -6,25 +6,7 @@ This repository contains the implementation, architecture, screenshots, and comp
 
 ---
 
-## 📋 Academic & Student Details
 
-| Field | Details |
-|---|---|
-| **Institute** | Pimpri Chinchwad College of Engineering (PCCOE), Pune |
-| **Department** | Computer Engineering |
-| **Course** | DevOps |
-| **Course Code** | BCE27PE01 |
-| **Academic Year** | 2026 – 2027 |
-| **Semester** | VII |
-| **Student Name** | Swayam Mandhani |
-| **PRN / Roll No** | 123B1B184 |
-| **Class & Division** | B.Tech, Computer Engineering — Division C |
-| **Batch** | C2 |
-| **Assignment No.** | 02 |
-| **Report Document** | [123B1B184_Assignment_2_DevOps.pdf](Report/123B1B184_Assignment_2_DevOps.pdf) |
-| **Repository Link** | [https://github.com/SwayamMandhani06/DevOps/tree/main/Assignment-2](https://github.com/SwayamMandhani06/DevOps/tree/main/Assignment-2) |
-
----
 
 ## 🎯 Aim
 

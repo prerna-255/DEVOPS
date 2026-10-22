@@ -1,13 +1,5 @@
 # DevOps Assignment 5 — Docker Compose
 
-## Student Details
-- **Name:** Swayam Mandhani
-- **PRN / Roll No.:** 123B1B184
-- **Class:** B.Tech Computer Engineering
-- **Division / Batch:** C / C2
-- **Subject:** DevOps (BCE27PE01)
-- **Assignment:** 5
-- **Report Document:** [123B1B184_Assignment_5_DevOps.pdf](Report/123B1B184_Assignment_5_DevOps.pdf)
 
 ## Title
 **Multi-Container Orchestration with Docker Compose**
@@ -45,8 +37,6 @@ Assignment-5/
 │   └── .dockerignore
 ├── compose.yaml
 ├── README.md
-├── Report/
-│   └── 123B1B184_Assignment_5_DevOps.pdf
 └── Screenshots/
     ├── 1-docker-compose-configuration-validation.png
     ├── 2-docker-compose-build.png

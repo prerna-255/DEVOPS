@@ -1,13 +1,3 @@
-# DevOps Assignment 6 — Jenkins Integration with GitHub
-
-## Student Details
-- **Name:** Swayam Mandhani
-- **PRN / Roll No.:** 123B1B184
-- **Class:** B.Tech Computer Engineering
-- **Division / Batch:** C / C2
-- **Subject:** DevOps (BCE27PE01)
-- **Assignment:** 6
-- **Report Document:** [123B1B184_Assignment_6_DevOps.pdf](Report/123B1B184_Assignment_6_DevOps.pdf)
 
 ## Title
 **Continuous Integration with Jenkins and GitHub**
@@ -27,8 +17,6 @@ Assignment-6/
 ├── .gitignore
 ├── Jenkinsfile
 ├── README.md
-├── Report/
-│   └── 123B1B184_Assignment_6_DevOps.pdf
 ├── app.py
 └── Screenshots/
     ├── 1-jenkins-prerequisites-java-git-verification.png
@@ -70,7 +58,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 git branch: 'main',
-                    url: 'https://github.com/SwayamMandhani06/DevOps.git'
+                    url: 'https://github.com/prerna-255/DEVOPS.git'
             }
         }
 
@@ -93,7 +81,7 @@ pipeline {
 ## Continuous Integration Implementation
 
 ### 1. Jenkins Freestyle Project (`GitHub-Jenkins-Demo`)
-- **Source Code Management:** Git (`https://github.com/SwayamMandhani06/DevOps.git`), branch `*/main`.
+- **Source Code Management:** Git (`https://github.com/SwayamMandhani06/DevOps.git](https://github.com/prerna-255/DEVOPS.git`), branch `*/main`.
 - **Build Trigger:** Poll SCM with schedule `H/5 * * * *` (polls remote GitHub repository every 5 minutes).
 - **Build Step:** Execute Windows batch command:
   ```bat
@@ -104,7 +92,7 @@ pipeline {
 
 ### 2. Jenkins Declarative Pipeline (`GitHub-Jenkins-Pipeline`)
 - **Definition:** Pipeline script from SCM.
-- **SCM:** Git (`https://github.com/SwayamMandhani06/DevOps.git`), branch `*/main`.
+- **SCM:** Git (`https://github.com/prerna-255/DEVOPS.git`), branch `*/main`.
 - **Script Path:** `Assignment-6/Jenkinsfile`.
 - **Execution Stages:**
   1. **Checkout:** Clones remote repository and checks out commit from `main`.
@@ -132,7 +120,3 @@ Jenkins was successfully integrated with GitHub. Source code retrieval on the `m
 | 12 | [`12-jenkins-pipeline-build.png`](Screenshots/12-jenkins-pipeline-build.png) | Pipeline dashboard overview confirming successful stage execution and stable status |
 | 13 | [`13-jenkins-pipeline-console-output.png`](Screenshots/13-jenkins-pipeline-console-output.png) | Pipeline console execution log displaying Checkout, Build, and Test stage completion |
 
-## Submission
-- **GitHub Repository:** [https://github.com/SwayamMandhani06/DevOps/tree/main/Assignment-6](https://github.com/SwayamMandhani06/DevOps/tree/main/Assignment-6)
-- **Academic Report:** [`Report/123B1B184_Assignment_6_DevOps.pdf`](Report/123B1B184_Assignment_6_DevOps.pdf)
-- **Hosted / Output:** N/A — Local Jenkins automation server.

@@ -1,13 +1,3 @@
-# DevOps Assignment 7 — Kubernetes Application Deployment using Helm
-
-## Student Details
-- **Name:** Swayam Mandhani
-- **PRN / Roll No.:** 123B1B184
-- **Class:** B.Tech Computer Engineering
-- **Division / Batch:** C / C2
-- **Subject:** DevOps (BCE27PE01)
-- **Assignment:** 7
-- **Report Document:** [123B1B184_Assignment_7_DevOps.pdf](Report/123B1B184_Assignment_7_DevOps.pdf)
 
 ---
 
@@ -82,8 +72,6 @@ The following diagram illustrates the single-node local Kubernetes cluster archi
 Assignment-7/
 ├── .gitignore                                   # Helm package & Kubernetes ignore patterns
 ├── README.md                                    # Comprehensive assignment documentation
-├── Report/                                      # Academic laboratory submission
-│   └── 123B1B184_Assignment_7_DevOps.pdf
 ├── Screenshots/                                 # Verification screenshot evidence (16 figures)
 │   ├── 1-kubernetes-tools-verification.png
 │   ├── 2-kubernetes-cluster-info.png
@@ -369,7 +357,4 @@ resources: {}
 
 ---
 
-## Submission Details
-- **GitHub Repository:** [https://github.com/SwayamMandhani06/DevOps/tree/main/Assignment-7](https://github.com/SwayamMandhani06/DevOps/tree/main/Assignment-7)
-- **Academic Report:** [`Report/123B1B184_Assignment_7_DevOps.pdf`](Report/123B1B184_Assignment_7_DevOps.pdf)
-- **Hosted / Output:** N/A — Local Kubernetes cluster orchestrated via Docker Desktop.
+
