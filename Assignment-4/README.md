@@ -18,8 +18,6 @@ Assignment-4/
 ├── Dockerfile
 ├── .dockerignore
 ├── README.md
-├── Report/
-│   └── 123B1B184_Assignment_4_DevOps.pdf
 └── Screenshots/
     ├── 0-docker-verification (1).png
     ├── 0-docker-verification.png
