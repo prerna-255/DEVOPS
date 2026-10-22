@@ -1,13 +1,3 @@
-# DevOps Assignment 6 — Jenkins Integration with GitHub
-
-## Student Details
-- **Name:** Swayam Mandhani
-- **PRN / Roll No.:** 123B1B184
-- **Class:** B.Tech Computer Engineering
-- **Division / Batch:** C / C2
-- **Subject:** DevOps (BCE27PE01)
-- **Assignment:** 6
-- **Report Document:** [123B1B184_Assignment_6_DevOps.pdf](Report/123B1B184_Assignment_6_DevOps.pdf)
 
 ## Title
 **Continuous Integration with Jenkins and GitHub**
@@ -27,8 +17,6 @@ Assignment-6/
 ├── .gitignore
 ├── Jenkinsfile
 ├── README.md
-├── Report/
-│   └── 123B1B184_Assignment_6_DevOps.pdf
 ├── app.py
 └── Screenshots/
     ├── 1-jenkins-prerequisites-java-git-verification.png
