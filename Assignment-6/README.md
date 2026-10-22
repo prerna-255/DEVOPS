@@ -120,7 +120,3 @@ Jenkins was successfully integrated with GitHub. Source code retrieval on the `m
 | 12 | [`12-jenkins-pipeline-build.png`](Screenshots/12-jenkins-pipeline-build.png) | Pipeline dashboard overview confirming successful stage execution and stable status |
 | 13 | [`13-jenkins-pipeline-console-output.png`](Screenshots/13-jenkins-pipeline-console-output.png) | Pipeline console execution log displaying Checkout, Build, and Test stage completion |
 
-## Submission
-- **GitHub Repository:** [https://github.com/SwayamMandhani06/DevOps/tree/main/Assignment-6](https://github.com/SwayamMandhani06/DevOps/tree/main/Assignment-6)
-- **Academic Report:** [`Report/123B1B184_Assignment_6_DevOps.pdf`](Report/123B1B184_Assignment_6_DevOps.pdf)
-- **Hosted / Output:** N/A — Local Jenkins automation server.
