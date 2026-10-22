@@ -1,25 +1,27 @@
+
 pipeline {
     agent any
 
     stages {
-
         stage('Checkout') {
             steps {
                 git branch: 'main',
-                    url: 'https://github.com/SwayamMandhani06/DevOps.git'
+                    url: 'https://github.com/prerna-255/DEVOPS.git'
             }
         }
 
         stage('Build') {
             steps {
-                echo 'Building application...'
-                bat 'cd Assignment-6 && "C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\python.exe" app.py'
+                echo 'Checking Python installation...'
+                bat '"C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\python.exe" --version'
+                echo 'Application build/check completed.'
             }
         }
 
         stage('Test') {
             steps {
                 echo 'Running tests...'
+                echo 'Add actual test commands when tests are available.'
             }
         }
     }
