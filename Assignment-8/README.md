@@ -1,15 +1,3 @@
-# DevOps Assignment 8 — Kubernetes Resource Management & Ansible Configuration Management
-
-## Student Details
-- **Name:** Swayam Mandhani
-- **PRN / Roll No.:** 123B1B184
-- **Class:** B.Tech Computer Engineering
-- **Division / Batch:** C / C2
-- **Subject:** DevOps (BCE27PE01)
-- **Assignment:** 8
-- **Report Document:** [123B1B184_Assignment_8_DevOps.pdf](Report/123B1B184_Assignment_8_DevOps.pdf)
-
----
 
 ## Title
 **Comprehensive Kubernetes Workload Management and Automated Configuration Management using Ansible**
@@ -458,7 +446,4 @@ docker ps -a
 
 ---
 
-## Submission Details
-- **GitHub Repository:** [https://github.com/SwayamMandhani06/DevOps/tree/main/Assignment-8](https://github.com/SwayamMandhani06/DevOps/tree/main/Assignment-8)
-- **Academic Report:** [`Report/123B1B184_Assignment_8_DevOps.pdf`](Report/123B1B184_Assignment_8_DevOps.pdf)
-- **Hosted / Output:** N/A — Local Kubernetes cluster and containerized Ansible environment.
+
