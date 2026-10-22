@@ -1,13 +1,4 @@
-# DevOps Assignment 4 — Create or Migrate an Application to Docker
 
-## Student Details
-- **Name:** Swayam Mandhani
-- **PRN / Roll No.:** 123B1B184
-- **Class:** B.Tech Computer Engineering
-- **Division / Batch:** C / C2
-- **Subject:** DevOps (BCE27PE01)
-- **Assignment:** 4
-- **Report Document:** [123B1B184_Assignment_4_DevOps.pdf](Report/123B1B184_Assignment_4_DevOps.pdf)
 
 ## Title
 **Create or Migrate an Application to Docker**
